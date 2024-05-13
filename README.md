@@ -1,2 +1,2 @@
 # Ola
- Repositorio criado com teste
+ Repositorio criado como teste e estudo
